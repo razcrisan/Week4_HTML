@@ -1,0 +1,308 @@
+﻿body {
+}
+div.container{
+    
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+
+}
+
+.navBarSetup{
+    background-color: #474E5D;
+    text-align:right;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+   
+}
+.navvy a{
+    color:white
+}
+
+.navvy ahover{
+    color:white;
+}
+.nav.navbar-nav{
+    color: white;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+   
+}
+
+.logo{
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+}
+
+.jumbotron {
+    text-align: initial;
+    font-family: 'Oxygen', sans-serif;
+    padding: 0px 0px 0px 0px;
+    height: 425px;
+    background-size: cover;
+    color: white;
+    background-image:url('Content/Images/tuscany-villas-sant-anna.jpg');
+    margin-bottom:0px;
+}
+
+.headerpicture{
+    padding: 0px 0px 0px 0px;
+}
+
+.jumbotron1{
+    font-family: 'Oxygen', sans-serif;
+    font-size: 20px;
+    text-align: left;
+    padding-left: 90px;
+
+}
+
+.location1text {
+    font-size:12px;
+}
+
+
+.pictureFix {
+    height:425px;
+    padding-right:20px;
+    background-image: url('Content/Images/Versilia.jpg');
+    background-size:cover;
+}
+.logo{
+    padding-left:70px;
+    padding-top:20px;
+}
+
+#logo{
+    padding-left:100px;
+    padding-top:5px;
+}
+.container2{
+    text-align:right;
+    background-color:#474E5D;
+}
+
+.jumbotronlocation{
+    background-color: #474E5D;
+     margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    color:white;
+    text-align:center;
+    font-family: 'Oxygen', sans-serif;
+}
+
+
+div.row.row1{
+    padding-left:50px;
+    padding-top:20px;
+    color:#474E5D;
+}
+/*location 1 picture style*/
+div.row.row1 div.col-lg-4 img{
+    width:460px;
+    height:300px;
+    padding-top:10px;
+    padding-left:30px;
+    padding-bottom:30px;
+    text-align:left;
+}
+
+div.row.row2 div.col-lg-4 img{
+     width:420px;
+    height:290px;
+    padding-top:20px;
+    padding-left:50px;
+    padding-bottom:30px;
+    text-align:left;
+}
+
+/*location 2 text*/
+div.row.row2  h1{
+    padding-left:50px;
+    color:white;
+    padding-top:30px;
+    font-family: 'Oxygen', sans-serif;
+}
+
+/*location 2 */
+div.row.row2 p{
+    padding-left:20px;
+    color:white;
+    padding-top:10px;
+    font-family: 'Oxygen', sans-serif;
+}
+/*location 2 background color blue*/
+div.row.row2 {
+    background-color:#474E5D;
+}
+/*location2 buttons style*/
+div.row.row1 div.col-lg-8 button.btn{
+    color:white;
+    background-color:#474E5D;
+    border-color:#474E5D;
+}
+
+div.row.row2 div.col-lg-8 p button.btn{
+    color:#474E5D;
+    border-color:white;
+}
+
+/*editing location 3 picture*/
+
+div.row.row3 div.col-lg-4 img{
+    width:440px;
+    height:290px;
+    padding-top:20px;
+    padding-left:50px;
+    padding-right:35px;
+    padding-bottom:30px;
+    text-align:left;
+
+}
+/*this styles the location 3 text*/
+div.row.row3 div.col-lg-8 h1{
+    padding-left:50px;
+    color:#474E5D;
+    padding-top:10px;
+    font-family: 'Oxygen', sans-serif;
+}
+div.row.row3 div.col-lg-8 p{
+     padding-left:50px;
+    color:#474E5D;
+    padding-top:10px;
+    font-family: 'Oxygen', sans-serif;
+}
+
+/*location3 button*/
+div.row.row3 div.col-lg-8 button.btn{
+    background-color:#474E5D;
+    color:white;
+    border-color:#474E5D;
+}
+
+div.container-fluid div.row.row4 div.col-lg-12 {
+    text-align:center;
+    background-color:#474E5D;
+    color:white;
+   
+}
+
+/* Centered text */
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:white;
+    font-family: 'Oxygen', sans-serif;
+}
+
+/*
+
+
+
+    THIS IS THE CAROUSEL CSS
+
+
+*/
+div#myCarousel.carousel.slide div.carousel-inner{
+    height:310px;
+    text-align:center;
+}
+/*CREATED BY BAR*/
+div.row.row6 div.col-lg-12{
+    height:280px;
+    text-align:center;
+    background-color:#474E5D;
+    color:white;
+   
+}
+
+
+/* Everything under this comment is grid sizing and shaping.*/
+/* this is the text align*/
+div.col-lg-4.col2{
+    text-align:center;
+    font-family: 'Oxygen', sans-serif;
+    color:#474E5D;
+    padding-top:30px;
+}
+
+div.col-lg-4.col1 {
+     text-align:center;
+    font-family: 'Oxygen', sans-serif;
+    padding-left:70px;
+    color:#474E5D;
+}
+div.col-lg-4.col3{
+    text-align:center;
+    font-family: 'Oxygen', sans-serif;
+    padding-right:70px;
+    color:#474E5D;
+}
+
+/*this is the picture edits*/
+div.row.rowgrid2 div.col-lg-4.col2 img{
+    width:400px;
+}
+div.container-fluid{
+    font-size:13px;
+    text-align:center;
+}
+
+div.col-lg-4.col3{
+    padding: 0px 0px 0px 0px;
+}
+div.col-lg-4.col1{
+    padding: 0px 0px 0px 0px;
+   
+}
+div.col-lg-4.col2{
+    padding: 0px 0px 0px 0px;
+}
+
+div.row.rowgrid1 div.col-lg-4.col1 img{
+    margin-left:10px;
+    width:420px;
+    text-align:center;
+}
+
+div.row.rowgrid1 div.col-lg-4.col3 img{
+    margin-right:10px;
+    text-align:center;
+    width: 420px;
+}
+
+
+div.row.rowgrid2 div.col-lg-4.col2 img{
+    width:450px;
+    text-align:center;
+}
+
+div.row.rowgrid3 div.col-lg-4.col1 img{
+    padding-left:0px;
+    width:445px;
+}
+
+div.row.rowgrid3 div.col-lg-4.col3 img{
+    width:460px;
+    margin: 0px 0px 0px 0px;
+    height:445px;
+    padding-right:30px;
+}
+
+div.container-fluid div.row.rowgrid1 div.col-lg-4.col2 p button.btn{
+    color:white;
+    background-color:#474E5D;
+}
+
+div.container-fluid div.row.rowgrid2 div.col-lg-4.col1 p button.btn{
+    color:white;
+    background-color:#474E5D;
+}
+
+div.container-fluid div.row.rowgrid1 div.col-lg-4.col3 p button.btn{
+    color:white;
+    background-color:#474E5D;
+}
