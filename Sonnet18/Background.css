@@ -1,0 +1,44 @@
+﻿body {
+    background-color: burlywood;
+
+}
+
+.footnote{
+    
+}
+
+#largetitle h1{
+    font-size: 140px;
+}
+
+.aligntext {
+    border:dotted;
+    width: 450px;
+    margin :0 auto;
+    text-align:center;
+       font-size: 18px;
+  font-variant: small-caps;
+  background-color:lightgoldenrodyellow;
+
+}
+
+.uppercase {
+    text-transform: capitalize;
+}
+
+#firstpar {
+    margin: 0 auto;
+    text-align: center;
+    width: 450px;
+    font-size:8px;
+}
+
+#title{
+    border:dotted;
+     margin: 0 auto;
+   
+    text-align: center;
+    font-size: 40px;
+    
+
+}

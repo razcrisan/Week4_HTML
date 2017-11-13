@@ -1,0 +1,35 @@
+﻿body {
+}
+p{
+    color: blue;
+    font-family: Arial;
+    font-size: 16px;
+}
+
+.phunkyphresh{
+    color: burlywood;
+   font-family: 'Electrolize', sans-serif;
+    font-size: 18px;
+}
+
+.purpledrank{
+    color: darkorchid;
+    font-family: 'Metal Mania', cursive;
+    font-size: 60px;
+    text-decoration: wavy;
+}
+
+#theThird{
+    color:aqua;
+
+}
+
+h1, h3, h6{
+    font-family: 'Comic Sans MS';
+}
+
+ol li {
+    color: red;
+    font-size: 20px;
+    
+}
